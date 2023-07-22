@@ -1,0 +1,4 @@
+git init
+
+git add . (or) git add *.html (or) git add filename
+
